@@ -1,3 +1,12 @@
+There are three types of feature selection: 
+
+                   Wrapper methods (forward, backward, and stepwise selection), 
+                   
+                   Filter methods (ANOVA, Pearson correlation, variance thresholding), and 
+                   
+                   Embedded methods (Lasso, Ridge, Decision Tree). 
+ 
+ 
  
 Feature Selection is the process where you automatically or manually select those features which contribute most to your prediction variable or output in which you are interested in. Having irrelevant features in your data can decrease the accuracy of the models and make your model learn based on irrelevant features.
 A feature is an X variable in your dataset, most often defined by a column. 
